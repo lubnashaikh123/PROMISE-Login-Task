@@ -1,0 +1,15 @@
+body{
+    color: white;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/007/278/150/small/dark-background-abstract-with-light-effect-vector.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div {
+	/* margin:20px; */
+    justify-content: space-between;
+	padding: 20px;
+    margin: 0 auto;
+	
+}
